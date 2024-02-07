@@ -12,7 +12,7 @@ api-nobitex is a PHP Library for Easier to get digital currency prices from Nobi
 2️⃣ Get the output as a page request
 ```
 ## Files
-* [`api.php`](https://github.com/ajcode79/api-nobitex/api.php)
+* [`api.php`](https://github.com/ajcode79/api-nobitex/blob/master/api.php)
 
 ## About Us
 By using this code, you can easily get digital currency prices from the Nobitex website.
